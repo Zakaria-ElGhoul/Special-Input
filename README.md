@@ -13,6 +13,9 @@ https://mediacollegeamsterdam-my.sharepoint.com/:f:/r/personal/30044_ma-web_nl/D
 # Trello
 Dit is de link naar onze trello: https://trello.com/b/Y9KjCtP9/special-input-output
 
+# Usertest
+Dit is de link naar onze user test (Main Menu): https://youtu.be/nqrNEojXLOQ
+Dit is de link naar onze user test (Bowling hal): https://youtu.be/mmEMev02d_o
 # Bronnenlijst:
 * Simpele vr bowling tutorial: VR bowling [] Unreal VR simple game tutorial
 * Open level voor unreal: https://answers.unrealengine.com/questions/32953/view.html
