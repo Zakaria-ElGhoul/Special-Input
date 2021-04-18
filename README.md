@@ -7,6 +7,6 @@ We hebben gebruik gemaakt van:
 * Trello
 * Laptop
 
-#### Alle documentatie kan je vinden op mijn drive:
+#### Alle documentatie kan je vinden op mijn OneDrive:
 https://mediacollegeamsterdam-my.sharepoint.com/:f:/r/personal/30044_ma-web_nl/Documents/Special%20Input?csf=1&web=1&e=KinEul
 
