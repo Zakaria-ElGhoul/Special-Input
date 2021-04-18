@@ -7,11 +7,11 @@ We hebben gebruik gemaakt van:
 * Trello
 * Laptop
 
-#### Alle documentatie kan je vinden op mijn OneDrive:
+# Alle documentatie kan je vinden op mijn OneDrive:
 https://mediacollegeamsterdam-my.sharepoint.com/:f:/r/personal/30044_ma-web_nl/Documents/Special%20Input?csf=1&web=1&e=KinEul
 
 
-#### Bronnenlijst:
+# Bronnenlijst:
 * Simpele vr bowling tutorial: VR bowling [] Unreal VR simple game tutorial
 * Open level voor unreal: https://answers.unrealengine.com/questions/32953/view.html
 * Steam vr setup: https://support.steampowered.com/steamvr/HTC_Vive/
