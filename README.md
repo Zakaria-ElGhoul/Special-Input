@@ -10,6 +10,8 @@ We hebben gebruik gemaakt van:
 # Alle documentatie kan je vinden op mijn OneDrive:
 https://mediacollegeamsterdam-my.sharepoint.com/:f:/r/personal/30044_ma-web_nl/Documents/Special%20Input?csf=1&web=1&e=KinEul
 
+# Trello
+Dit is de link naar onze trello: https://trello.com/b/Y9KjCtP9/special-input-output
 
 # Bronnenlijst:
 * Simpele vr bowling tutorial: VR bowling [] Unreal VR simple game tutorial
